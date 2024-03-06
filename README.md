@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a research engineer in forest economics at UMR Silva, AgroParisTech, and a research associate at the UMR BETA. I am based in Nancy, France.
 <!--
 **vlmathieu/vlmathieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
