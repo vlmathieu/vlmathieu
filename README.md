@@ -1,8 +1,8 @@
-### Hi all 👋
+### Hi all :t-rex:🌴
 
-I am **Valentin**, a research engineer in forest economics at UMR Silva, AgroParisTech, and a research associate at the UMR BETA. I am based in Nancy, France.
+I am **Valentin**, a research engineer in forest economics at [UMR Silva](https://silva.nancy.hub.inrae.fr), [AgroParisTech](https://www.agroparistech.fr), and a research associate at the [UMR BETA](https://www.beta-economics.fr). I am based in [Nancy, France](https://www.google.fr/maps/place/Nancy/@48.6880556,6.1528394,14z/data=!3m1!4b1!4m6!3m5!1s0x4794986e17a692cd:0x4ed671b10d82498d!8m2!3d48.692054!4d6.184417!16zL20vMDExdzRu?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D).
 
-Research fields: forest economics :deciduous_tree:, international trade :earth_africa:, economic geography :globe_with_meridians:, urban economics :department_store:.
+Research fields: forest economics 🌳🌲, international trade ⛴️🚚, economic geography 🗺️🌐, urban economics 🏙️🏗️.
 
 [![Static Badge](https://img.shields.io/badge/orcid-grey?style=for-the-badge&logo=orcid&link=https%3A%2F%2Forcid.org%2F0000-0003-4548-5673)](https://orcid.org/0000-0002-0696-6979)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.fr/citations?user=ZKcxVOIAAAAJ&hl=fr&oi=sra)
