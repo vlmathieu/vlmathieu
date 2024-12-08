@@ -1,5 +1,4 @@
-# Valentin Mathieu
-# Junior researcher at UMR Silva, AgroParisTech
+# Valentin Mathieu<br>Junior researcher at UMR Silva, AgroParisTech
 <br>
 
 [<img src="./icons/mail.png" height="50">](mailto:valentin.mathieu@agroparistech.fr)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/orcid.png" height="50">](https://orcid.org/0000-0002-0696-6979)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/google-scholar.png" height="50">](https://scholar.google.fr/citations?user=ZKcxVOIAAAAJ&hl=fr&oi=sra)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/github.png" height="50">](https://github.com/vlmathieu)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/researchgate.png" height="50">](https://www.researchgate.net/profile/Valentin-Mathieu)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/x.png" height="50">](https://twitter.com/vmathieu25)
