@@ -4,7 +4,7 @@ I am **Valentin**, a research engineer in forest economics at [UMR Silva](https:
 
 Research fields: forest economics 🌳🌲, international trade ⛴️🚚, economic geography 🗺️🌐, urban economics 🏙️🏗️.
 
-[![Static Badge](https://img.shields.io/badge/orcid-grey?style=for-the-badge&logo=orcid&link=https%3A%2F%2Forcid.org%2F0000-0003-4548-5673)](https://orcid.org/0000-0002-0696-6979)
+[![ORCID](https://img.shields.io/badge/orcid-grey?style=for-the-badge&logo=orcid&link=https%3A%2F%2Forcid.org%2F0000-0003-4548-5673)](https://orcid.org/0000-0002-0696-6979)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.fr/citations?user=ZKcxVOIAAAAJ&hl=fr&oi=sra)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Valentin-Mathieu)
 
