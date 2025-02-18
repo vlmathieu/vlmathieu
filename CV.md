@@ -265,7 +265,7 @@ AgroParisTech, Paris, France | 2017-2018
   **Co-supervision:** Alexandra Niedzwiedz (AgroParisTech, BETA), Claire Montagné-Huck (INRAE, BETA).
 
   M.Sc. AETPF GCRE 1st year - Noémie Kuczynski French oak exports to China | avril 2024-juin 2024**<br>
-  **Subject:** .<br>
+  **Subject:** French oak exports to China.<br>
   **Co-supervision:** Alexandra Niedzwiedz (AgroParisTech, BETA), Claire Montagné-Huck (INRAE, BETA).
   
   M.Sc. AETPF BFD 1st year – Thibault Burel | avril 2023-juin 2023<br>
@@ -316,7 +316,7 @@ Université de Lorraine, <ins>AgroParisTech</ins>, INRAE, UMR SILVA, Nancy, Fran
 French: mother tongue; English: academic and fluent.
 
 **Coding & software:**
-Python, R, [GRASS GIS](https://grass.osgeo.org), Markdown.
+Python, R, [GRASS GIS](https://grass.osgeo.org), Markdown, GitHub.
 
 **Multimedia graphics:**
 [Suite Affinity](https://affinity.serif.com/en-gb/), Adobe Photoshop.
