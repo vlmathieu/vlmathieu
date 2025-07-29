@@ -1,7 +1,7 @@
 # Valentin Mathieu<br>Junior researcher at UMR Silva, AgroParisTech
 <br>
 
-[<img src="./icons/mail.png" height="50">](mailto:valentin.mathieu@agroparistech.fr)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/orcid.png" height="50">](https://orcid.org/0000-0002-0696-6979)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/google-scholar.png" height="50">](https://scholar.google.fr/citations?user=ZKcxVOIAAAAJ&hl=fr&oi=sra)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/github.png" height="50">](https://github.com/vlmathieu)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/researchgate.png" height="50">](https://www.researchgate.net/profile/Valentin-Mathieu)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/x.png" height="50">](https://twitter.com/vmathieu25)
+[<img src="./icons/mail.png" height="50">](mailto:valentin.mathieu@agroparistech.fr)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/orcid.png" height="50">](https://orcid.org/0000-0002-0696-6979)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/google-scholar.png" height="50">](https://scholar.google.fr/citations?user=ZKcxVOIAAAAJ&hl=fr&oi=sra)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/github.png" height="50">](https://github.com/vlmathieu)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/researchgate.png" height="50">](https://www.researchgate.net/profile/Valentin-Mathieu)&emsp;&emsp;&emsp;&emsp;[<img src="./icons/bluesky.png" height="50">](https://bsky.app/profile/vmathieu.bsky.social)
 <br>
 
 ## Current position
@@ -17,10 +17,10 @@ In charge of the *Forest Information and Resource Strategies* (FIRS) major at Ag
 Resource economics (forest economics), International economics (international trade), Economic geography, Urban economics
 
 **Methods:**
-Applied mathematics (Graph theory, Machine Learning), Geographic Information Systems, Bilateral trade / forest data (FAOSTAT, UN Comtrade)
+Applied mathematics and data science (Graph theory, Machine Learning), Geographic Information Systems, Bilateral trade / forest data (FAOSTAT, UN Comtrade)
 
 **Research themes:**
-Forest-wood sector, Wood products, Trade, Forest Policy, Urbanisation
+Forest-wood sector, Wood products, Trade, Forest-based bioeconomy, Forest Policy, Urbanisation
 
 ## Scientific production
 
@@ -34,15 +34,23 @@ Forest-wood sector, Wood products, Trade, Forest Policy, Urbanisation
   Papers on forests and forest products often address sustainability and climate change issues. Wood trade flow models study production and exchanges of wood products in order to better understand and analyze these issues. To date, there has not been a complete overview of these models' objectives, or of the wood trade flow factors they use. We expect wood trade flow models with different objectives to rely on a wide diversity of factors. We performed a meta-analysis on 499 publications about wood trade flow modeling, published between 1972 and 2022 and recorded in the Scopus database. We found that three groups of model objectives constitute most of the literature: understanding trade mechanisms (5% of the literature), forecasting trends (9%), and policy analysis (99%). There is a degree of overlap between these categories, as 14% of the literature uses wood trade flow models for at least two of the latter objectives. Within the category of models exploring or simulating policies, about 37% of papers address major economic disruption issues, 40% concern environmental issues, while 49% relate to energy, welfare or trade policies. Altogether, these models use a narrow set of four categories of factors: price factors (6% of the literature), the interdependency of production factors (11%), policy factors (15%), and stock and trade quantity factors (49%), neglecting other possible factors. This study provides the first comprehensive overview and categorization of the models' objectives in relation to their factors. Most importantly, the literature rarely uses certain factors that are considered in other commodities or economic sectors. In particular, the central role of urban dynamics in shaping material trade flows remains unexplored overall by wood trade flow modeling. Compared to the perception of what the driving forces of the forest sector economics have been in recent decades, new issues that have risen require the integration of new categories of factors.
 </details>
   
-### Working Documents
+### Other published documents
 
-Mathieu, V., Shanafelt, D. W. Trade, Polarisation and Disruption : Structure and Dynamics of the Industrial Roundwood Trade from a Network Analysis Perspective.
+<details>
+  <summary>Mathieu, V. (2023). Wood, Cities, and Trade: An Economic Analysis of the Global Urban Demand for Wood Products and the Dynamics of International Wood Trade (Doctoral dissertation, Université de Lorraine). https://hal.univ-lorraine.fr/tel-04594758</summary><br>
 
-Mathieu, V., Shanafelt, D. W. Ebbs and flows in wood products trade: Towards an increasing Chinese pressure on wood resources.
+  **Abstract**
 
-### Work in progress
+  To achieve sustainable development and sustainable natural resource management, a thorough understanding of the various factors that contribute to the wood economy, as well as an accurate forecast of wood supply and demand, are essential. Such analyses rely on models, referred to in this thesis as "wood trade flow models" when studying wood production, trade and consumption. The use of models to explain and predict economic phenomena comes up against several methodological difficulties. Given these difficulties, how can we assess a model's ability to conduct such analyses? This thesis considers three essential and interdependent aspects of modeling to assess a model's ability to achieve its objectives. The first is whether the theoretical framework of models can be tested empirically. The second aspect is to determine whether a model takes into account factors that are important for the heuristic and predictive analysis of economic phenomena. The third aspect concerns the availability and quality of data on which a theory can be tested and from which factors can be identified and quantified. This thesis is structured around these three aspects and is divided into four chapters. The first two chapters deal with two of the modeling aspects considered: (i) the factors taken into account or to be taken into account in modeling the wood economy, and (ii) the development of models based on empirically testable theories. The last two chapters deal with the third aspect of modelling: data quality and its implications for modelling. The aim of this thesis is to conduct a review of the factors considered in modeling wood trade flows, and to propose an economic analysis of urban demand for wood and international trade in wood products. Chapter 1 presents a meta-analysis of wood trade flow modeling concepts. It concludes that economic models rely on a narrow set of factor categories, thus neglecting other important factors, such as urbanization. Chapter 2 develops a spatial model of urban demand for wood. By taking urbanization into account as a factor in the global wood economy, the model offers a realistic and accurate representation of forest economic phenomena, suggesting a crucial role of urban dynamics in shaping the global wood economy. Chapter 3 highlights several discrepancies between export and import data, and proposes a method for accounting for measurement errors in trade analyses. This chapter suggests that these discrepancies are significant, and that failing to correct models for errors in trade data biases model results. Chapter 4 performs a network analysis of the roundwood trade. Although this analysis is primarily descriptive, it provides a realistic and mechanistic model for assessing the structure of the trade network and its dynamics. The scientific contributions of this thesis are threefold: it proposes new methods for modeling the global wood economy, integrates urban dynamics as a factor shaping the global wood economy, and highlights a need for best practices in the analysis of wood product trade. It addresses global issues by highlighting the need to anticipate future urban demand for wood, questions the effectiveness of economic regulation policies applied to forests and wood products, and suggests commercial strategies aimed at minimizing market risks.
+</details>
 
-Mathieu, V., Garcia, S. How does the (non-)reliability of wood product trade data affect the estimation of trade models: an econometric analysis of the sources of bias.
+<details>
+  <summary>Delacote, P., Mathieu, V., & Montagné-Huck, C. (2023). Panorama des recherches sur la forêt et le bois du département EcoSocio INRAE. INRAE Sciences Sociales, 2023, 1-4. https://ageconsearch.umn.edu/record/336034/?v=pdf</summary><br>
+
+  **Abstract**
+
+  Climat et carbone, risques, biodiversité, artificialisation des sols, bioéconomie ; les forêts, dans les régions tempérées comme tropicales, sont à l’intersection de nombreux enjeux économiques, sociaux et environnementaux. La recherche sur la gestion, la conservation et la valorisation de ces écosystèmes particulièrement vulnérables offre des perspectives stimulantes pour analyser et comprendre comment les sociétés réagissent face aux crises environnementales et comment elles redéfinissent leurs rapports aux ressources naturelles. 
+</details>
 
 ## Education
 
@@ -126,6 +134,8 @@ AgroParisTech, Paris, France | 2017-2018
 
   **Related project:** Hy-C-Green (Production of low-carbon hydrogen and bio-sourced materials in Eastern France with an integrated biorefinery concept).
 
+  **Production:** Mathieu, V. (2020). Hy-C-Green project: Evaluation of the economic and environmental impacts of the implementation of a forest biorefinery in the Grand Est region, Project report (INRA). https://hal.science/hal-04920115/document
+
 </details>
 
 <details>
@@ -138,6 +148,8 @@ AgroParisTech, Paris, France | 2017-2018
   **Subject:** Analysis of wood trade flow models from the perspective of notions of place, space, and scale.
   
   **Supervision:** Sylvain Caurla (INRAE), Craig Johnston (University of Wisconsin-Madison).
+
+  **Production:** Mathieu, V. (2019). Forest Sector Modeling-A critical analysis from the perspective of the notions of space, place, and scale (Doctoral dissertation, AgroParisTech). https://hal.science/hal-04920111/document
   
 </details>
 
@@ -175,6 +187,9 @@ AgroParisTech, Paris, France | 2017-2018
   <summary>
     <strong>Conferences</strong>
     </summary><br>
+
+  **12th annual conference of the FAERE** <br>
+  LEMNA, Nantes, France | sept. 2025
 
   **18th social science research days (JRSS)** <br>
   Société Française d’Économie Rurale (SFER), Reims, France | dec. 2024
@@ -221,7 +236,18 @@ AgroParisTech, Paris, France | 2017-2018
   Chaire RENEL, Université de Lorraine, Nancy, France | mars 2023
 
 </details>
+
+<details>
   
+  <summary>
+    <strong>Workshops</strong>
+  </summary><br>
+
+  **Thematic day of the Natural Resources and Local Economy Chair (RENEL) - Equitable access to resources and green technologies**<br>
+  Chaire RENEL, Université de Lorraine, Nancy, France | mars 2025
+
+</details>
+
 <details>
 
   <summary>
@@ -234,6 +260,9 @@ AgroParisTech, Paris, France | 2017-2018
   **Experimentarium Young Researchers Festival** <br>
   Dijon, France | may 2022
   
+  **International Forestry Students Association (IFSA) France: “China and the timber trade”.**<br>
+  Nancy, France | nov. 2021
+
   **European Researchers' Night  « Voyages »** <br>
   Dijon, France | sept. 2021
   
@@ -293,6 +322,9 @@ AgroParisTech, Paris, France | 2017-2018
 
 ## Collective Responsibilities
 
+**Member of the Scientific Comittee of ProSilva France**<br>
+ProSilva France, Nancy, France | jan. 2025-
+
 **Elected member of the UMR SILVA Scientific Committee**<br>
 Université de Lorraine, <ins>AgroParisTech</ins>, INRAE, UMR SILVA, Nancy, France | oct. 2024-
 
@@ -306,7 +338,49 @@ Université de Lorraine, <ins>AgroParisTech</ins>, INRAE, UMR SILVA, Nancy, Fran
     <strong>Lectures</strong>
   </summary><br>
 
+  **International trade of wood products**<br>
+  Erasmus+ Mundus Biorefinery European Master Program (BIOREF)<br>
+  Université de Technologie de Troyes, Troyes, France | 2022-2024<br>
+  M.Sc.2 AgroParisTech, major Forest Resources and the Wood industry (RFF)<br>
+  AgroParisTech, Nancy, France | 2019-2023
+
+  **Content:** structure and dynamics of international trade in timber products; scope and limitations of bilateral trade databases (UN Comtrade, FAOSTAT); determinants of timber trade flows; current issues and prospects.<br>
+  <hr>
+
+  **Forest economics: Forest, Wood, and Global issues**<br>
+  M.Sc.1-2 Wood Sciences<br>
+  University of Montpellier, Montpellier, France | 2021-
+
+  **Content:** forest-wood sector operations at different scales, carbon economics, forest economics, outlook for the forestry-wood industry, economic, social and environmental challenges facing the French forestry-wood industry<br>
+
+  <hr>
+
+  **Co-supervision of student projects on the forest-wood sector**<br>
+  M.Sc.2 AgroParisTech, major Forest Resources and the Wood industry (RFF)<br>
+  M.Sc.2 AgroParisTech and University of Lorraine, major "Forest and Wood"<br>
+  AgroParisTech, Nancy, France | 2022-
+
+  **Project focus:**<br>
+  2022-2023: The European Union's new forestry strategy 2030 - Intentions and consequences in France and Germany.<br>
+  2024-2025: Stakeholders in the forestry-wood industry and traceability: a qualitative study of two historical forestry regions (Grand Est and Baden-Württemberg).
   
+  **Method:** qualitative survey approach ~ creation of semi-directive interview guides; interview method; supervision of the analysis of survey results.<br>
+
+  <hr>
+
+  **Bioenergy Economics and Geopolitics**<br>
+  M.Sc.2 AgroParisTech and University of Lorraine, major "Forest and Wood"<br>
+  AgroParisTech, Nancy, France | 2019-2023
+
+  **Content:** general information on biofuels; global issues; palm oil controversy; geopolitics of vegetable oils; case study (CIRAD research projects in Southeast Asia).<br>
+
+  <hr>
+
+  **Forest-based bioeconomy**<br>
+  M.Sc.2 AgroParisTech and University of Lorraine, major "Forest and Wood"<br>
+  AgroParisTech, Nancy, France | 2020
+
+  **Content:** history of the bioeconomy concept; definition of the various bioeconomy concepts; issues and controversies; case study (Hy-C-Green research project)
   
 </details>
 
