@@ -4,7 +4,7 @@ I am **Valentin**, a research engineer in forest economics at [UMR Silva](https:
 
 [Personal page.](https://vlmathieu.github.io)
 
-[Link to CV.](https://github.com/vlmathieu/vlmathieu/blob/main/CV.md)
+[Link to CV.](https://vlmathieu.github.io/cv/)
 
 Research fields: forest economics 🌳🌲, international trade ⛴️🚚, economic geography 🗺️🌐, urban economics 🏙️🏗️.
 
